@@ -9,4 +9,3 @@ joblib
 scipy
 ucimlrepo
 streamlit
-plotly
